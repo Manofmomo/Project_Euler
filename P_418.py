@@ -8,5 +8,3 @@ for c in range(1,n):
                     minsum = a+b+c
                     print(minsum)
                 break
-
-2
