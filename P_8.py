@@ -18,7 +18,21 @@ line_1 += "07198403850962455444362981230987879927244284909188"
 line_1 += "84580156166097919133875499200524063689912560717606"
 line_1 += "05886116467109405077541002256983155200055935729725"
 line_1 += "71636269561882670428252483600823257530420752963450"
-
+#
+#
+# ruk mai tereko shayad 10 min mai call karega
+# i know daal diya mai
+# i'll upload to github for now
+# i will call in 10 mins
+# nahi kar sakta toh ill text: toh jaldi text kar dena if not kyunki uss
+# hissab se mai nahane jaaon
+# tu chale ja
+# raat ko free hoga toh kar lenge 
+# haina bc
+# byeeeeeee
+# Bc coding website ko chat banaya hai
+# kewl me take chower
+# Buy buy
 num = list(line_1)
 naya_list = []
 for i in range(len(num) - 4 ):
