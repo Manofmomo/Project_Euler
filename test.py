@@ -1,3 +1,2 @@
-num=12345
-num=str(num)
-print(num[len(num):])
+num=[2,3,4,5,6,7,8,9]
+print(num[2:5])

@@ -15,10 +15,8 @@ for num in range(3,28123):
     if addition > num:
         list_adbundant.append(num)
 
-print(list_adbundant)
 list_sum = []
 for i in range(1,28124):
-    print(i)
     flag = 0
     for check in list_adbundant:
         if check > i:
